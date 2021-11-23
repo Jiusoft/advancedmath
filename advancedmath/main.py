@@ -1,4 +1,4 @@
 class basic:
-    "Basic Operations"
+    """Basic Operations"""
     def add(self, x, y):
         return x + y
